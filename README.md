@@ -108,20 +108,55 @@ $$\text{Similarity} = 100 - \frac{\sum (|P_{target} - P_{peer}| \times W)}{\sum 
 
 ---
 
-##  Setup Instructions
-1.  **Clone the Repo**:
-    ```bash
-    git clone https://github.com/your-repo/scout-x.git
-    cd scout-x
-    ```
-2.  **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Run the App**:
-    ```bash
-    streamlit run scouting_app.py
-    ```
+## Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-repo/scout-x.git
+cd scout-x
+```
+
+### 2. Create a Virtual Environment
+
+#### Windows (PowerShell)
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
+
+#### Windows (Command Prompt)
+
+```cmd
+python -m venv .venv
+.venv\Scripts\activate.bat
+```
+
+#### macOS / Linux
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run Scout X
+
+```bash
+streamlit run scouting_app.py
+```
+
+### 5. Open in Browser
+
+```text
+http://localhost:8501
+```
 
 ---
 
