@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="logo.png" alt="Scout X Logo" width="250" />
+
+# Scout X
+
+</div>
+
 #  Scout X: Big-Five Tactical Scouting Dashboard
 
 **Scout X** is a high-performance tactical scouting tool covering every outfield player in Europe's Big Five leagues — Premier League, La Liga, Bundesliga, Serie A, and Ligue 1. By merging advanced metrics from multiple data providers with custom tactical algorithms, Scout X bridges the gap between raw data and actionable scouting insights.
