@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Scout X Logo" width="350" />
+  <img src="logo.png" alt="Scout X Logo" width="880" />
 
 # Scout X
 
