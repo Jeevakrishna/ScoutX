@@ -21,10 +21,10 @@ Scout X is built on transparent mathematical foundations. Every grade can be tra
 
 ### 1. Data Processing & Normalization
 *   **Minutes Floor**: Only players with ≥ 900 minutes are included to ensure statistical significance.
-*   **Positional Peers**: Percentile ranks are calculated strictly within position groups (🛡 Defenders, ⚽ Midfielders, 🎯 Forwards).
+*   **Positional Peers**: Percentile ranks are calculated strictly within position groups ( Defenders,  Midfielders,  Forwards).
 *   **Percentile Calculation**:
     $$P = \text{rank}(v) / N \times 100$$
-    *For inverted stats (e.g., Dispossessed), $P = (1 - \text{rank}(v) / N) \times 100$.*
+    *For inverted stats (e.g., Dispossessed), $$P=(1−rank(v)/N)×100$$ .
 
 ### 2. League Pressing Adjustment
 To neutralize the structural bias of high-pressing leagues (like the Bundesliga) vs. possession-heavy ones (like La Liga), Scout X can apply a mean-normalization to defensive volume stats:
