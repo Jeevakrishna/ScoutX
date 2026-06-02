@@ -1,8 +1,6 @@
 <div align="center">
   <img src="logo.png" alt="Scout X Logo" width="880" />
 
-# Scout X
-
 </div>
 
 #  Scout X: Big-Five Tactical Scouting Dashboard
