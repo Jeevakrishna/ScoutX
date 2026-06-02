@@ -11,7 +11,7 @@ Most scouting tools rely on "black-box" ratings or raw volume. Scout X uses a tr
 1.  **Quality (Q)**: How effective is the player at the specific tasks a role demands?
 2.  **Style Fit (S)**: Does the player's statistical "shape" (spikes and troughs) match the role archetype?
 
-By blending these two signals, Scout X prevents "elite-player carpet-bombing"—where world-class all-rounders like Jude Bellingham or Rodri appear at the top of every leaderboard. Instead, it prioritizes players whose profiles genuinely fit the tactical brief.
+By blending these two signals, Scout X prevents "elite-player carpet-bombing"—where world-class, highly versatile players dominate every leaderboard regardless of the role being searched for. Instead, it prioritizes players whose profiles genuinely align with the specific tactical requirements and responsibilities of the role.
 
 ---
 
