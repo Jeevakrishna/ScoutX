@@ -80,7 +80,7 @@ $$\text{Similarity} = 100 - \frac{\sum (|P_{target} - P_{peer}| \times W)}{\sum 
 ###  Technical Highlights
 *   **Responsive UI**: Sticky navigation, mobile-first design, and high-performance radar charts.
 *   **Dynamic Data**: The app reloads its 1,400+ player dataset automatically if the source CSV is updated.
-*   **Bilingual**: Full support for English and Tiếng Việt.
+
 
 ---
 
