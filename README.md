@@ -159,6 +159,9 @@ http://localhost:8501
 ```
 
 ---
+### live demo : https://scoutx.streamlit.app/
+---
+
 
 ##  Roadmap
 - [x] Universal CSV Export & Selection
