@@ -173,4 +173,4 @@ http://localhost:8501
 ---
 
 ##  Acknowledgments
-This project is made possible by the incredible data infrastructure provided by **FBref**, **Sofascore**, and **Understat**. Statistical scraping and processing are powered by `soccerdata` and `ScraperFC`. Tactical role archetypes are inspired by the *Football Manager* taxonomy.
+This project is made possible by the incredible data infrastructure provided by **FBref**, **Sofascore**, and **Understat**. Statistical scraping and processing are powered by `soccerdata` and `ScraperFC`. Tactical role archetypes are inspired by the *Football Manager* taxonomy
